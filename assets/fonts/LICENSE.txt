@@ -1,0 +1,4 @@
+Inter — Copyright (c) 2016 The Inter Project Authors (https://github.com/rsms/inter)
+Licenciada sob a SIL Open Font License 1.1 — https://scripts.sil.org/OFL
+Subconjuntos latin e latin-ext hospedados localmente para desempenho e para
+evitar a transferencia do IP do visitante a servicos de terceiros (LGPD).
